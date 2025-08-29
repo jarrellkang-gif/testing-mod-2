@@ -6,6 +6,18 @@
     {
         "name": "Infantry",
         "movementType": "Land"
+    },
+    {
+        "name": "Water Surface",
+        "movementType": "Water"
+    },
+    {
+        "name": "Submersible",
+        "movementType": "Water"
+    },
+    {
+        "name": "Flying",
+        "movementType": "Air"
     }
     
 ]
