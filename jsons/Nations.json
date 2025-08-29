@@ -11,7 +11,7 @@
 		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
 		"introduction": "If I am cut, Do I not bleed?",
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
-		"outerColor": [2.2,2],
+		"outerColor": [2,2,2],
 		"innerColor": [158,56,38],
 		"uniqueName": "Word of Nod",
 		"uniques": ["[+30]% Strength <vs [City-States]>"],
