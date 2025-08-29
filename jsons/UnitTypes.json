@@ -8,6 +8,14 @@
         "movementType": "Land"
     },
     {
+        "name": "Cavalry",
+        "movementType": "Land"
+    }
+    {
+        "name": "Armored",
+        "movementType": "Land"
+    },
+    {
         "name": "Ship",
         "movementType": "Water"
     },
