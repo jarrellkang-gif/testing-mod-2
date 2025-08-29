@@ -5,14 +5,31 @@
         "movement": 2,
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
+
+//MODERN ERA
     {
 		"name": "Rifleman",
 		"unitType": "Infantry",
 		"movement": 2,
-		"strength": 5,
-        "range": 2,
-		"rangedStrength": 7,
+		"strength": 8,
 		"cost": 40,
 		"attackSound": "shot"
+	},
+	{
+		"name": "Marine",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 10,
+		"cost": 60,
+		"attackSound": "shot"
+	},
+	{
+		"name": "Elite Infantry",
+		"unitType": "Infantry",
+		"movement": 3,
+		"strength": 10,
+		"cost": 120,
+		"attackSound": "shot"
 	}
+	
 ]
