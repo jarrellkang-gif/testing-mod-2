@@ -8,15 +8,15 @@
         "movementType": "Land"
     },
     {
-        "name": "Water Surface",
+        "name": "Ship",
         "movementType": "Water"
     },
     {
-        "name": "Submersible",
+        "name": "Submarine",
         "movementType": "Water"
     },
     {
-        "name": "Flying",
+        "name": "Aircraft",
         "movementType": "Air"
     }
     
